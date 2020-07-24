@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864094868704",
+    "firebase_url": "https://brothers-4b605.firebaseio.com",
+    "project_id": "brothers-4b605",
+    "storage_bucket": "brothers-4b605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864094868704:android:d15fe5543c1ccc85556c85",
+        "android_client_info": {
+          "package_name": "com.example.FIREBASE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864094868704-6kvp2avkvp4ppsj7rlkflfdi5l0iorb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4EIZX54f0pgQmVk8dtR_F-K3sutNr2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864094868704-6kvp2avkvp4ppsj7rlkflfdi5l0iorb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
